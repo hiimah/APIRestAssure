@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="reqresin" skipped="0" tests="4" time="14.23" timestamp="2022-06-18 09:27:12"><testcase name="Success POST login"/><testcase name="POST failed login"/><testcase name="POST success register"/><testcase name="POST failed register"/></testsuite>

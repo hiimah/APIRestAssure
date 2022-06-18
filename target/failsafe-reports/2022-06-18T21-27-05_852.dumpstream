@@ -1,0 +1,4 @@
+# Created at 2022-06-18T21:27:07.419
+Boot Manifest-JAR contains absolute paths in classpath 'G:\Alterra Academy\GitHub\APIRestAssure\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
